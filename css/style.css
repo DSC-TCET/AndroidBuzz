@@ -3,6 +3,11 @@
 
      width:500px;
 }
+
+.icons{
+     fill:#3DDB85;
+}
+
 /* header */
 .header-css{
 
@@ -203,7 +208,7 @@ background: linear-gradient(135deg, rgba(41,8,167,1) 0%, rgba(118,9,177,1) 100%)
      border:1px solid black;
      border-radius:5%;
      padding:5%;
-     
+     height: 100%;
 }
 
 .prz-card img{
