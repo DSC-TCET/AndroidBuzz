@@ -303,6 +303,14 @@ background: linear-gradient(135deg, rgba(41,8,167,1) 0%, rgba(118,9,177,1) 100%)
 
 }
 
+#rules p{
+
+     color:white;
+     font-size: 20px;
+     font-weight: 500;
+     text-decoration: underline;
+}
+
 /* faq */
 
 .faq-text-heading{
@@ -720,6 +728,15 @@ background: linear-gradient(135deg, rgba(41,8,167,0.95) 0%, rgba(118,9,177,0.95)
           font-size: 17px;
           font-weight: 300;
      
+     }
+
+     
+     #rules p{
+
+          color:white;
+          font-size: 17px;
+          font-weight: 500;
+          text-decoration: underline;
      }
 
      /* schedule */
