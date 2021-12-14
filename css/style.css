@@ -26,6 +26,13 @@
 
      color:lightgreen !important;
 }
+
+
+.accordion-button:not(.collapsed){
+
+     color:white;
+     background-color:rgb(8,48,66,1);
+}
 /* banner */
 .banner-css{
 
