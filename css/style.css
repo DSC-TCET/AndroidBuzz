@@ -385,21 +385,21 @@ background: linear-gradient(135deg, rgba(41,8,167,0.95) 0%, rgba(118,9,177,0.95)
      .about-text-heading{
 
           font-weight: 700;
-          font-size: 40px;
+          font-size: 35px;
           word-wrap: break-word;
      }
 
      .about-text-content{
 
           font-weight: 700;
-          font-size: 25px;
+          font-size: 20px;
      }
 
      .about-text-content-highlight{
 
 
           font-weight: 700;
-          font-size: 25px;
+          font-size: 20px;
           color:#EA9010
 
      }
@@ -416,7 +416,7 @@ background: linear-gradient(135deg, rgba(41,8,167,0.95) 0%, rgba(118,9,177,0.95)
 
           color:white;
           font-weight: 700;
-          font-size:40px;
+          font-size:35px;
      }
 
      .problem-card{
@@ -424,7 +424,7 @@ background: linear-gradient(135deg, rgba(41,8,167,0.95) 0%, rgba(118,9,177,0.95)
           border:3px solid #EA9010;
           border-radius: 20px;
           box-sizing: border-box;
-          padding:25px;
+          padding:20px;
      }
 
      .problem-card img{
@@ -455,7 +455,7 @@ background: linear-gradient(135deg, rgba(41,8,167,0.95) 0%, rgba(118,9,177,0.95)
      .prz-text-heading{
 
           font-weight: 700;
-          font-size: 40px;
+          font-size: 35px;
      }
      
      .prz-text-subhead{
@@ -484,7 +484,7 @@ background: linear-gradient(135deg, rgba(41,8,167,0.95) 0%, rgba(118,9,177,0.95)
      .prz-card h3{
      
           font-weight: 700;
-          font-size:30px;
+          font-size:25px;
           text-decoration: underline;
      }
      
@@ -511,7 +511,7 @@ background: linear-gradient(135deg, rgba(41,8,167,0.95) 0%, rgba(118,9,177,0.95)
 
 
           font-weight: 700;
-          font-size: 40px;
+          font-size: 35px;
           color:white;
      }
 
@@ -533,7 +533,7 @@ background: linear-gradient(135deg, rgba(41,8,167,0.95) 0%, rgba(118,9,177,0.95)
      .spn-card h3{
 
           color:white;
-          font-size: 30px;
+          font-size: 20px;
           font-weight: 500;
           margin-bottom: 5%;
      }
@@ -545,8 +545,23 @@ background: linear-gradient(135deg, rgba(41,8,167,0.95) 0%, rgba(118,9,177,0.95)
 
 
           font-weight: 700;
-          font-size: 40px;
+          font-size: 35px;
           color:white;
+     }
+
+     #rules h3{
+
+          font-weight: 500;
+          font-size:20px;
+          color:#EA9010;
+     }
+     
+     
+     #rules li{
+     
+          color:white;
+          font-size: 17px;
+          font-weight: 300;
      
      }
 
@@ -555,7 +570,7 @@ background: linear-gradient(135deg, rgba(41,8,167,0.95) 0%, rgba(118,9,177,0.95)
      .schedule-text-heading{
           
           font-weight: 700;
-          font-size: 40px;
+          font-size: 35px;
      }
 
      /* faq */
@@ -563,7 +578,20 @@ background: linear-gradient(135deg, rgba(41,8,167,0.95) 0%, rgba(118,9,177,0.95)
      .faq-text-heading{
           
           font-weight: 700;
-          font-size: 40px;
+          font-size: 35px;
+     }
+
+     .faq-question{
+
+          font-size: 20px;
+          font-weight: 500;
+     }
+     
+     .faq-answer{
+     
+          font-size: 15px;
+          font-weight: 300;
+          border:1px solid black;
      }
 
 
