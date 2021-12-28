@@ -550,6 +550,16 @@ background: linear-gradient(135deg, rgba(41,8,167,0.95) 0%, rgba(118,9,177,0.95)
           width:100%;
      }
 
+     .banner-text-heading{
+
+          font-size: 50px;
+     }
+     
+     .f{
+
+          display: inline-block;
+     }
+
      /* aboutus */
 
      .about-text-heading{
